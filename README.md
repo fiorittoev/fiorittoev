@@ -1,9 +1,9 @@
-## About me:
+## About Me:
 - iOS Engineer @ Walmart 
 
 - B.S. Computer Science and Engineering from Michigan State University Honors College
 
-## Some cool projects I have worked on:
+## Some Cool Past Projects:
 
 - [My VR Language Tutor](https://capstone.cse.msu.edu/2025-08/projects/launch/)
 
