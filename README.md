@@ -1,5 +1,5 @@
 ## About Me:
-- iOS Engineer @ Walmart 
+- iOS/Android Engineer @ Walmart 
 
 - B.S. Computer Science and Engineering from Michigan State University Honors College
 
